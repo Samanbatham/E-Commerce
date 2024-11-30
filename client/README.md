@@ -1,8 +1,21 @@
-# React + Vite
+E-Commerce Platform 🛒
+A robust, scalable, and feature-rich e-commerce application designed to provide an exceptional online shopping experience. Built using MERN Stack.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+Features 🚀
+User-Friendly Interface: Intuitive navigation and responsive design.
+Product Management: Add, update, delete, and categorize products.
+Shopping Cart: Add-to-cart functionality with quantity adjustments.
+Order Processing: End-to-end order placement and management.
+Secure Payments: Integrated Paypal payment gateways.
+User Authentication: Registration, login, and role-based access.
+Admin Dashboard: Insights, analytics, and store management tools.
+Search & Filtering: Advanced product search with filters and sorting.
+Reviews & Ratings: Users can rate and review products.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Tech Stack 🛠️
+Frontend: React
+Backend: Node.js
+Database: MongoDB
+Styling: TailwindCSS
+State Management: Redux
